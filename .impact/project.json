@@ -8,15 +8,15 @@
     },
     {
       "name": "VehicleDynamics",
-      "versionSpecifier": "4.3.0"
+      "versionSpecifier": "4.1.0"
     },
     {
       "name": "Modelon",
-      "versionSpecifier": "4.3.0"
+      "versionSpecifier": "4.1.0"
     },
     {
       "name": "Electrification",
-      "versionSpecifier": "1.10.0"
+      "versionSpecifier": "1.8.0"
     }
   ],
   "content": [
